@@ -10,26 +10,27 @@
 
 # Languages, Database and Tool
 
-<img src="https://www.php.net/images/logos/new-php-logo.svg" width="100"> &nbsp;&nbsp; &nbsp;&nbsp;  <img src="https://laravel.com/img/logomark.min.svg" width="80"> &nbsp;&nbsp; &nbsp;&nbsp;
-<img src="https://laravel.com/img/logotype.min.svg" width="50"> &nbsp; &nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/89516355/235416221-cf1ccd02-ae8d-45c5-b900-444dd1ae9b47.png" width="105"> &nbsp;  &nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/89516355/235416348-6ff88b33-7cd1-4a2e-9529-57512b6a206f.png" width="250"> 
-<img src="https://static.javatpoint.com/core/images/java-logo1.png" width="110"> &nbsp;
+<img src="https://www.php.net/images/logos/new-php-logo.svg" width="60"> &nbsp;&nbsp; &nbsp;&nbsp;  <img src="https://laravel.com/img/logomark.min.svg" width="50"> &nbsp;&nbsp; &nbsp;&nbsp;
+<img src="https://laravel.com/img/logotype.min.svg" width="50"> &nbsp; &nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/89516355/235416221-cf1ccd02-ae8d-45c5-b900-444dd1ae9b47.png" width="90"> &nbsp;  &nbsp;&nbsp;
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="150"> 
+<img src="https://static.javatpoint.com/core/images/java-logo1.png" width="100"> &nbsp;<img src="https://openjdk.org/images/openjdk.png" width="105"> &nbsp;  &nbsp;&nbsp; <img src="https://spring.io/img/spring-2.svg" width="100"/> &nbsp;&nbsp; &nbsp;&nbsp;
 
-<img src="https://openjdk.org/images/openjdk.png" width="155"> &nbsp;  &nbsp;&nbsp;
-<img src="https://spring.io/img/spring-2.svg" width="200"/> &nbsp;&nbsp; &nbsp;&nbsp;
- <img src="https://raw.githubusercontent.com/thymeleaf/thymeleaf-org/main/artwork/thymeleaf%202016/thymeleaf_logo_white.png" width="200"/> &nbsp;&nbsp;
- <img src="https://ninefreelance.com/assets/images/logo/html2css-js.png" width="150"/> &nbsp;&nbsp;
+
+
+ <img src="https://raw.githubusercontent.com/thymeleaf/thymeleaf-org/main/artwork/thymeleaf%202016/thymeleaf_logo_white.png" width="150"/> &nbsp;&nbsp;
+ <img src="https://ninefreelance.com/assets/images/logo/html2css-js.png" width="120"/> &nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" width="100"/> &nbsp;&nbsp;
-<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-horizontal-blue.svg" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100"/> &nbsp;&nbsp;
- &nbsp;&nbsp;<img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" width="100"/> <img src="https://ermaster.sourceforge.net/content/manual/en/images/ermuster_big.png" width="110"/>
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="50"/>  &nbsp;&nbsp; <img src="https://www.eclipse.org/org/artwork/images/eclipse_foundation_logo.jpg" width="80"/>  &nbsp;&nbsp; <img src="https://www.mathjax.org/badge/mj-logo.svg" width="100"/>
+<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-horizontal-blue.svg" width="150"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100"/> &nbsp;&nbsp;
+ &nbsp;&nbsp;<img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" width="90"/> <img src="https://ermaster.sourceforge.net/content/manual/en/images/ermuster_big.png" width="110"/>
+ 
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="50"/>  &nbsp;&nbsp; <img src="https://www.eclipse.org/org/artwork/images/eclipse_foundation_logo.jpg" width="100"/>  &nbsp;&nbsp; <img src="https://www.mathjax.org/badge/mj-logo.svg" width="100"/>
 
 <br/>
 
 # UpSkill
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100"> &nbsp;  &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="90"> &nbsp;  &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="110"> &nbsp;  &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="60"> &nbsp;  &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50"> &nbsp;  &nbsp;&nbsp;
 
 <!--
 **kiadbodin/kiadbodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
