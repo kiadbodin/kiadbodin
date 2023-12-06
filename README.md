@@ -4,7 +4,7 @@
 
 #  I'm  Kiadbodin Chansuk 
 
--  Full Stack Developer 
+-  🚀🔥 Full Stack Developer 
 - Data Scientist 
 - Tutor Science and Mathematics 
 
@@ -21,7 +21,10 @@
  <img src="https://ninefreelance.com/assets/images/logo/html2css-js.png" width="150"/> &nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" width="100"/> &nbsp;&nbsp;
 <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-horizontal-blue.svg" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100"/> &nbsp;&nbsp;
- &nbsp;&nbsp;<img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" width="110"/>
+ &nbsp;&nbsp;<img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" width="100"/> <img src="https://ermaster.sourceforge.net/content/manual/en/images/ermuster_big.png" width="110"/>
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="50"/><img src="https://www.eclipse.org/org/artwork/images/eclipse_foundation_logo.jpg" width="80"/>
+
+
 <!--
 **kiadbodin/kiadbodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
