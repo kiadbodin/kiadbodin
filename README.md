@@ -6,7 +6,7 @@
 
 -  Full Stack Developer 
 - Data Scientist 
-- Tutor Science and Mathematics
+- Tutor Science and Mathematics 
 
 # Languages, Database and Tool
 
