@@ -11,9 +11,9 @@
 # Languages, Database and Tool
 
 <img src="https://www.php.net/images/logos/new-php-logo.svg" width="100"> &nbsp;&nbsp; &nbsp;&nbsp;  <img src="https://laravel.com/img/logomark.min.svg" width="80"> &nbsp;&nbsp; &nbsp;&nbsp;
-<img src="https://laravel.com/img/logotype.min.svg" width="50"> &nbsp; &nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/89516355/235416221-cf1ccd02-ae8d-45c5-b900-444dd1ae9b47.png" width="155"> &nbsp;  &nbsp;&nbsp;
+<img src="https://laravel.com/img/logotype.min.svg" width="50"> &nbsp; &nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/89516355/235416221-cf1ccd02-ae8d-45c5-b900-444dd1ae9b47.png" width="125"> &nbsp;  &nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/89516355/235416348-6ff88b33-7cd1-4a2e-9529-57512b6a206f.png" width="250"> 
-<img src="https://static.javatpoint.com/core/images/java-logo1.png" width="150"> &nbsp;
+<img src="https://static.javatpoint.com/core/images/java-logo1.png" width="110"> &nbsp;
 
 <img src="https://openjdk.org/images/openjdk.png" width="155"> &nbsp;  &nbsp;&nbsp;
 <img src="https://spring.io/img/spring-2.svg" width="200"/> &nbsp;&nbsp; &nbsp;&nbsp;
