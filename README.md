@@ -7,7 +7,7 @@
 
 - :rocket: Full Stack Developer 
 - :bar_chart: Data Scientist 
-- :milky_way: Tutor Science and Mathematics 
+- :milky_way: :mortar_board: Tutor Science and Mathematics 
 
 # Languages, Database and Tool
 
@@ -29,6 +29,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="90"> &nbsp;  &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="110"> &nbsp;  &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50"> &nbsp;  &nbsp;&nbsp;
+
+## Ref Github
+:smiley: [Github emoji](https://gist.github.com/rxaviers/7360908) | 
+🔭 [ Github Syntax ](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 <!--
 **kiadbodin/kiadbodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
