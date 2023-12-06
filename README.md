@@ -4,9 +4,9 @@
 
 #  I'm  Kiadbodin Chansuk 
 
--  🚀🔥 Full Stack Developer 
-- Data Scientist 
-- Tutor Science and Mathematics 
+- :rocket: Full Stack Developer 
+- :bar_chart: Data Scientist 
+- :milky_way: Tutor Science and Mathematics 
 
 # Languages, Database and Tool
 
