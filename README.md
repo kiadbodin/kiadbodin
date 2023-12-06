@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> About ME </h2>
+<h2 align="center"> About ME </h2>
 <!--
 **kiadbodin/kiadbodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
