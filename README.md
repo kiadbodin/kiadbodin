@@ -15,8 +15,6 @@
 <img src="https://www.python.org/static/community_logos/python-logo.png" width="150"> 
 <img src="https://static.javatpoint.com/core/images/java-logo1.png" width="100"> &nbsp;<img src="https://openjdk.org/images/openjdk.png" width="105"> &nbsp;  &nbsp;&nbsp; <img src="https://spring.io/img/spring-2.svg" width="100"/> &nbsp;&nbsp; &nbsp;&nbsp;
 
-
-
  <img src="https://raw.githubusercontent.com/thymeleaf/thymeleaf-org/main/artwork/thymeleaf%202016/thymeleaf_logo_white.png" width="150"/> &nbsp;&nbsp;
  <img src="https://ninefreelance.com/assets/images/logo/html2css-js.png" width="120"/> &nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" width="100"/> &nbsp;&nbsp;
