@@ -1,5 +1,6 @@
-![ninefreelance-logo-2](https://github.com/kiadbodin/kiadbodin/assets/89516355/64e20765-4642-4673-9e40-efacd1148b58)
-# I'm  Kiadbodin Chansuk 
+<img src="https://ninefreelance.com/assets/images/logo/ninefreelance-logo-2.jpg" width="550">    
+
+#  I'm  Kiadbodin Chansuk 
 
 -  Full Stack Developer 
 - Data Scientist 
