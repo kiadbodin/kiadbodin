@@ -7,7 +7,8 @@
 
 - :rocket: Full Stack Developer 
 - :bar_chart: Data Scientist 
-- :milky_way: :mortar_board: Tutor Science and Mathematics 
+- :milky_way: :mortar_board: Tutor Science and Mathematics
+- :tea: :coffee: :book: :maple_leaf: :deciduous_tree: :cactus:
 
 # Languages, Database and Tool
 
