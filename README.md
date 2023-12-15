@@ -28,6 +28,7 @@
 
 # UpSkill
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="90"> &nbsp;  &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" width="70"> &nbsp;  &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="110"> &nbsp;  &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50"> &nbsp;  &nbsp;&nbsp;
 
